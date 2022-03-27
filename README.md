@@ -2,7 +2,7 @@
 - 👀 I’m interested in Desenvolvimento mobile.
 - 🌱 I’m currently learning Dart/Flutter.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: send mensage for sennas1@hotmail.com.
 
 <!---
 VitorLopesSna/VitorLopesSna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
